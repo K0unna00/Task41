@@ -1,0 +1,41 @@
+.col-10 .card {
+  margin: 20px;
+}
+
+.header {
+  margin-top: 50px;
+}
+
+.header .bucked {
+  position: relative;
+}
+
+.header .bucked i {
+  font-size: 40px;
+  color: #196ddb;
+}
+
+.header .bucked .counter {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: orange;
+  top: 0;
+  right: 0;
+}
+
+.header .bucked .counter h5 {
+  position: absolute;
+  top: -3px;
+  left: 5px;
+}
+
+.header .bucked .counter a {
+  display: none;
+}
+
+.header .logo img {
+  width: 100px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,37 @@
+.col-10{
+    .card{
+        margin: 20px;
+    }
+}
+.header{
+    margin-top: 50px;
+    .bucked{
+        position:relative;
+        i{
+            font-size: 40px;
+            color: rgb(25, 109, 219);
+        }
+        .counter{
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: orange;
+            top: 0;
+            right: 0;
+            h5{
+                position: absolute;
+                top: -3px;
+                left: 5px;
+            }
+            a{
+                display: none;
+            }
+        }
+    }
+    .logo{
+        img{
+            width: 100px;
+        }
+    }
+}
